@@ -1,0 +1,10 @@
+hello
+world
+happy
+learning
+python
+happy
+learning
+hello
+world
+python is great
